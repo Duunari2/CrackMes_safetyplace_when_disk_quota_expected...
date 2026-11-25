@@ -1,0 +1,26 @@
+Käyttö: exif [VALITSIN...] tiedosto
+  -v, --version                       Näytä ohjelmiston versio
+  -i, --ids                           Näytä tunnisteet tunnistenimien sijasta
+  -t, --tag=tunniste                  Valitse tunniste
+      --ifd=IFD                       Valitse IFD
+  -l, --list-tags                     Luettele kaikki EXIF-tunnisteet
+  -|, --show-mnote                    Näytä MakerNote-tunnisteen sisältö
+      --remove                        Poista tunniste tai ifd
+  -s, --show-description              Näytä tunnisteen kuvaus
+  -e, --extract-thumbnail             Poimi pienoiskuva
+  -r, --remove-thumbnail              Poista pienoiskuva
+  -n, --insert-thumbnail=TIEDOSTO     Lisää TIEDOSTO pienoiskuvana
+      --no-fixup                      Älä korjaa olemassa olevia tunnisteita
+                                      tiedostoissa
+  -o, --output=TIEDOSTO               Kirjoita data TIEDOSTOon
+      --set-value=MERKKIJONO          Tunnisteen arvo
+  -c, --create-exif                   Luo EXIF-dataa, jos sitä ei ole olemassa
+  -m, --machine-readable              Tulosta koneluettavassa (sarkaimella
+                                      rajoitetussa) muodossa
+  -w, --width=LEVEYS                  Tulosteen leveys
+  -x, --xml-output                    Tulosta XML-muodossa
+  -d, --debug                         Näytä vianjäljitystiedot
+
+Ohjevalitsimet:
+  -?, --help                          Näytä tämä ohje
+      --usage                         Näytä lyhyt käyttöohje
