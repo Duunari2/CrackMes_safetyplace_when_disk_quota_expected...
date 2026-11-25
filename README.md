@@ -18,8 +18,8 @@ Not sharen after this for made an offer of the price and the cryptocoin currency
 And i dont take nosensed price of database dumps relevating do you need only the email-addresses or the phonenumbers too and lastly the plaintext passwords in scoped to usernames that is 80k in database..
 
 If you want to get the information data branch and pay something like 300 between 600 as currency of euros to converted as btc, xmr or ltc at endpoint to made the crypto transfer for my blockchain address...
-<img src="logo.jpg">
+<img src="logo_NAB.jpg">
 To get my email addresses, you need to read the exifdata from logo_var.jpg file, that is encoded to base64 format for start...
 
 Making Silence time to get some sleepp too<br><br><br>
-<img src="logo.jpg">
+<img src="logo_NAB.jpg">
