@@ -1,4 +1,24 @@
 <img src="logo_var.jpg">
+Currently CRACMES FOLDER ARE UNAVAILABLE AND TO BE REACHED BEHIND RADIO SILENCE LOCALHOST NETWORK USAGE ONLY, BECUSE I DONT HAVE DISK SPACE LEFT ON MY VIRTTUAL MACHINES AND IT WILL BE RELEASED AS FULL IMAGE OF PUZZLE WHERE ALL TRAYSLOTS ARE FILLEN WITH MAGICK BYTES--Connecting the number order to be usagen for build public application that have easily every file after clean of database from black energy that injected on CrackMES CReation to allow run payloads in trayslots where data should be embedded, but the programs one of them are using nanomites and every time the EIP is in different location than program start on debugger... The main quest is to get all plaintext data reached out from crackmes with containing image files and other mimetype files and then released as rainbow colour effect usable image shown the plaintext data etc... Only newbie protection i will set is md5 hash i will publish on root of the page for CrackMes, the cracked md5 hash will point you to the plaintext cracked data slottery...
+
+I need to do some security checks, because i am close to give you the md5 hash to encrypt with bruteforcing method i guess... I allso try upload files that does not reach the 2mB FILELIMIT TO GET ONE SAVE DATA POINT TO BE REACHED...
+
+yOURS SINCERELY,
+tmS
+
+https://datat.freehostia.com/ level 7 anti-ddos-protection without redirect build yet. Did only make the key, and lock, but not the data to extracted yet. I have many architecture structures in my ssd-flash drive and could give one WRITEUP.TXT for cracking base64 encoded md5 hash given in plaintext form. It is really easy password and takes maxium setup an one day to get the cracked values...
+
+I keep red string on my hands and equip the secret services like temperature to be one of my collapse reindeers...¨
+
+Just need to make clean to WriteUp1.txt after it available on http submit form that will be added on my webserver to be part 2 of md5 checksum detector..
+
+Keep in mind that the my style have has allways contain steganographic encrypted data to embedd to image files behind password, so logo_var.jpg and logo.jpg are on active state to braking my nutshell to see one hex ray to one for the bigger image of the full jigsaw puzzle image that would be endpoint, and make me to change the missions i give my self maybe be in radio silence month for first etc...
+
+Timestamp: ke 25.11.EET 2026 08.45.18 +0200
+
+I let the email addresses to change for cryptos given spot to be not in any of encoded or encrypted format... I can select my customers without using computer blocks, just by asking few questions, like where these emails are to be used for... That could be end of one of these READPASS.md files containing district 900 data to give it people need it because dont have customers....
+
+
 <br><br><br><br>
 # CrackMes_safetyplace_when_disk_quota_expected...
 <b>Will trying to save CrackMes directory to DropBOX OR EVEN PROTON DRIVE FOR PUBLIC INSTANCE AVAILABLE</b>
